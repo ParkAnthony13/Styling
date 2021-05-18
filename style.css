@@ -1,0 +1,23 @@
+.white {
+    color: white;
+}
+.turquoise {
+    color: turquoise;
+}
+h1 {
+    background-color: black;
+    font-family: cursive;
+    text-align: left;
+}
+h2 {
+    background-color: rebeccapurple;
+    font-family: cursive;
+    font-style: italic;
+    text-align: center;
+}
+h3 {
+    background-color: cornflowerblue;
+    font-family: cursive;
+    text-decoration: underline;
+    text-align: right;
+}
